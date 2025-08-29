@@ -1,5 +1,3 @@
-# chinook-music-analysis
-
 
 # 🎵 Chinook Music Store Analysis
 
